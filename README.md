@@ -6,6 +6,8 @@ Original GloVe implementation can be found at https://github.com/stanfordnlp/Glo
 
 The python implementation used:
 (Theano) https://github.com/hans/glove.py accompanying blogpost http://www.foldl.me/2014/glove-python/
+
 (Tensorflow) https://github.com/GradySimon/tensorflow-glove
+
 (PyTorch) https://github.com/kefirski/pytorch_GloVe
 
